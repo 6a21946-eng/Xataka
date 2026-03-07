@@ -1,9 +1,79 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>RSS Ciberseguridad Xataka</title>
+    <title>Mi RSS automático</title>
     <link>https://www.xataka.com/tag/ciberseguridad</link>
-    <description>Titulares automáticos de Xataka sobre ciberseguridad</description>
+    <description>Titulares automáticos</description>
     
+        <item>
+            <title>Las redes Wi-Fi para invitados parecían un refugio seguro para conectarse. AirSnitch acaba de demostrar que son un coladero</title>
+            <link>https://www.xataka.com/seguridad/configurar-wi-fi-para-invitados-parecia-buena-idea-que-ha-aparecido-ultima-vulnerabilidad-airsnitch</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/seguridad/configurar-wi-fi-para-invitados-parecia-buena-idea-que-ha-aparecido-ultima-vulnerabilidad-airsnitch</guid>
+        </item>
+        
+        <item>
+            <title>Un hombre intentaba controlar su robot aspirador con un mando: acabó teniendo acceso a 6.700 dispositivos en todo el mundo</title>
+            <link>https://www.xataka.com/seguridad/hombre-intentaba-controlar-su-robot-aspirador-mando-acabo-teniendo-acceso-a-6-700-dispositivos-todo-mundo</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/seguridad/hombre-intentaba-controlar-su-robot-aspirador-mando-acabo-teniendo-acceso-a-6-700-dispositivos-todo-mundo</guid>
+        </item>
+        
+        <item>
+            <title>Ahora se entiende por qué se habla tanto de ciberataques: el ransomware se ha disparado en España y los datos lo confirman</title>
+            <link>https://www.xataka.com/seguridad/ahora-se-entiende-que-se-habla-ciberataques-ransomware-se-ha-disparado-espana-datos-confirman</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/seguridad/ahora-se-entiende-que-se-habla-ciberataques-ransomware-se-ha-disparado-espana-datos-confirman</guid>
+        </item>
+        
+        <item>
+            <title>Ese botón de 'Resumir con IA te puede estar manipulando en secreto, y Microsoft da las claves para protegerse</title>
+            <link>https://www.xataka.com/robotica-e-ia/hay-gente-intoxicando-memoria-nuestra-ia-para-manipularnos-microsoft-ha-encendido-todas-alarmas</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/robotica-e-ia/hay-gente-intoxicando-memoria-nuestra-ia-para-manipularnos-microsoft-ha-encendido-todas-alarmas</guid>
+        </item>
+        
+        <item>
+            <title>Ataque zero-click o clic cero: qué es, cómo funciona y cómo protegerte de él</title>
+            <link>https://www.xataka.com/basics/ataque-zero-click-clic-cero-que-como-funciona-como-protegerte</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/basics/ataque-zero-click-clic-cero-que-como-funciona-como-protegerte</guid>
+        </item>
+        
+        <item>
+            <title>Un ciberataque ha paralizado dos días a un gigante valenciano del zumo: la consecuencia también ha llegado a las nóminas, según Levante</title>
+            <link>https://www.xataka.com/seguridad/ciberataque-ha-paralizado-dos-dias-a-gigante-valenciano-zumo-consecuencia-tambien-ha-llegado-a-nominas-levante</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/seguridad/ciberataque-ha-paralizado-dos-dias-a-gigante-valenciano-zumo-consecuencia-tambien-ha-llegado-a-nominas-levante</guid>
+        </item>
+        
+        <item>
+            <title>OpenClaw es una de las IA más fascinantes y "peligrosas" del momento. Una empresa malagueña ha acudido en su rescate</title>
+            <link>https://www.xataka.com/robotica-e-ia/openclaw-ia-viral-fascinante-peligrosa-momento-eso-ultimo-se-ha-aliado-malaguena-virustotal</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/robotica-e-ia/openclaw-ia-viral-fascinante-peligrosa-momento-eso-ultimo-se-ha-aliado-malaguena-virustotal</guid>
+        </item>
+        
+        <item>
+            <title>Un ciberdelincuente dice haber robado datos de millones en España: esto es lo que sabemos del supuesto ‘hackeo’ a Hacienda</title>
+            <link>https://www.xataka.com/seguridad/ciberdelincuente-dice-haber-robado-datos-millones-espana-esto-que-sabemos-supuesto-hackeo-a-hacienda</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/seguridad/ciberdelincuente-dice-haber-robado-datos-millones-espana-esto-que-sabemos-supuesto-hackeo-a-hacienda</guid>
+        </item>
+        
+        <item>
+            <title>El problema de Moltbook no es que las IA estén planeando la "dominación mundial". Es que hay humanos detrás</title>
+            <link>https://www.xataka.com/robotica-e-ia/moltbook-fascinante-proyecto-red-social-que-solo-ias-pueden-participar-que-podria-salir-mal</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/robotica-e-ia/moltbook-fascinante-proyecto-red-social-que-solo-ias-pueden-participar-que-podria-salir-mal</guid>
+        </item>
+        
+        <item>
+            <title>Tenemos el DNI más blindado y encriptado de nuestra historia. El problema es que lo estamos utilizando mal</title>
+            <link>https://www.xataka.com/seguridad/espana-refuerza-cifrado-dni-al-maximo-nivel-seguridad-problema-sigue-siendo-que-cualquier-hotel-te-fotocopia</link>
+            <pubDate>Sat, 07 Mar 2026 01:50:47 +0000</pubDate>
+            <guid>https://www.xataka.com/seguridad/espana-refuerza-cifrado-dni-al-maximo-nivel-seguridad-problema-sigue-siendo-que-cualquier-hotel-te-fotocopia</guid>
+        </item>
+        
 </channel>
 </rss>
