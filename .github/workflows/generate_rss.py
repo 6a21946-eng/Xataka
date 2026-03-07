@@ -41,7 +41,7 @@ rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
 """
 
 # Guardamos en rss.xml
-with open("rss.xml", "w", encoding="utf-8") as f:
+with open("../../rss.xml", "w", encoding="utf-8") as f:
     f.write(rss_content)
 
 print("rss.xml generado correctamente")
