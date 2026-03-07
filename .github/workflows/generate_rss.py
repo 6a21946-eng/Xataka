@@ -27,7 +27,7 @@ for link in links[:10]:
         """)
 
 # Guardar RSS en la raíz del repositorio
-with open("../../rss.xml", "w", encoding="utf-8") as f:
+with open("rss.xml", "w", encoding="utf-8") as f:
     rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
